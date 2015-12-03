@@ -3,6 +3,10 @@ Changelog
 
 ## x.y.z - UNRELEASED
 
+### Added
+
+* [Network] A new DeviceCollection class can be used to manually add devices to the network.
+
 --------
 
 ## 1.9.1 - 2016-03-13
